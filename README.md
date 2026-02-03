@@ -1,56 +1,51 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Noman+Akber;14-Year-Old+Python+Dev;Next.js+%26+Production+Expert;Building+The+Impossible" alt="Typing SVG" />
+# Hi, I'm Noman Akber (Noman-dev3) 👋
 
-  <p align="center">
-    <strong>Class 8 Student | Full-Stack Developer | AdSense Specialist</strong>
-  </p>
-
-  <p align="center">
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Contact%20Me-00D1FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  </p>
-</div>
+### Python Developer | Full-Stack Web Visionary | 8th Grade Student
 
 ---
 
-### 🚀 What I'm Working On
-I specialize in high-level design combined with complex backend logic.
+## 🚀 About Me
 
-* **Businessist:** Building a full platform including custom email systems.
-* **Automation:** Python-based Cambridge A-Level paper downloader.
-* **AI Tools:** Groq API-powered grading systems.
-* **Infra:** AWS SDK & OpenWrt networking.
+I am a 14-year-old developer currently in Class 8, but I don't just "code"—I build digital experiences that push the boundaries of imagination. I specialize in Python and Web Development, with a track record of deploying production-ready sites that are fully monetized and optimized.
 
----
-
-### 📊 Performance Dashboard
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noman-dev3&show_icons=true&theme=dark&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noman-dev3&layout=compact&theme=dark&border_radius=10" width="45%" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noman-dev3&theme=dark&border_radius=10" width="95%" />
-</div>
+- 🎓 **Current Status:** 8th Grade Student & Full-Stack Developer.
+- 💻 **Vision:** Creating web architectures that most people think are impossible.
+- 📈 **Experience:** Managing production-level sites and working with Google AdSense.
+- ⚡ **Philosophy:** "If it can be imagined, it can be coded."
 
 ---
 
-### 🛠 Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AdSense-F9AB00?style=for-the-badge&logo=google-adsense&logoColor=white" />
-</div>
+## 🛠 Tech Stack & Tools
+
+### 💻 Languages & Logic
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🌐 Web & Monetization
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Google AdSense](https://img.shields.io/badge/AdSense-F9AB00?style=for-the-badge&logo=google-adsense&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🔧 Tools & Workflow
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-### 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noman-dev3&theme=react-dark&border_radius=10&hide_border=true" width="100%" />
-</div>
+## 📊 GitHub Stats
+![Noman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noman-dev3&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noman-dev3&layout=compact&theme=radical)
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Noman-dev3&label=Profile%20Views&color=00D1FF&style=flat-square" />
-</div>
+---
+
+## 📱 Connect With Me
+- 💼 **LinkedIn:** [Insert Link Here]
+- 📧 **Email:** [Insert Link Here]
+- 🌐 **Portfolio:** [Insert Link Here]
+
+---
