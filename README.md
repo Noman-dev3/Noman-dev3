@@ -1,6 +1,6 @@
 # Hi, I'm Noman Akber (Noman-dev3) 👋
 
-### Python Developer | Full-Stack Web Visionary | 8th Grade Student
+### Python Developer | Full-Stack Web Visionary | IGCSE Grade Student
 
 ---
 
