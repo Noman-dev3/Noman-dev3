@@ -45,7 +45,7 @@ I am a 14-year-old developer currently in Class 8, but I don't just "code"—I b
 
 ## 📱 Connect With Me
 - 💼 **LinkedIn:** [Insert Link Here]
-- 📧 **Email:** [Insert Link Here]
-- 🌐 **Portfolio:** [Insert Link Here]
+- 📧 **Email:** noman.dev3@gmail.com
+- 🌐 **Portfolio:** https://itsnoman.site
 
 ---
